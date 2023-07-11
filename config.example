@@ -1,0 +1,4 @@
+domain: "example.com"
+cf_email: "your_email@emailprovider.com"
+cf_api: "123abc123abc..."
+cf_zone: "123abc123abc..."
