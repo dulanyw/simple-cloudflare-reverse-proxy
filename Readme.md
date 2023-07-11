@@ -23,7 +23,7 @@ To get the full benefits of a reverse-proxy configuration, you'll also need to s
 	b. "cf_email" is your Cloudflare login email.
 	c. "cf_api" is your Cloudflare API key, found [here](https://dash.cloudflare.com/profile/api-tokens) under "Global API Key".
 	d. "cf_zone" is the "zone" associated with the domain. In the Cloudflare dashboard, click on the domain, then copy the Zone ID found under the "API" heading.
-5. Update your system to periodically run the script (as a cron job on Linux, or as a scheduled task on Windows).
+5. Update your system to periodically run "simpleddns.py" (as a cron job on Linux, or as a scheduled task on Windows).
 
 ## License
 
